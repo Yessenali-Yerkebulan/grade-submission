@@ -1,5 +1,5 @@
 # grade-submission
-<h3>Grade Submission Application made using Spring Boot, Spring Security, H2, Thymeleaf, REST</h3>
+<h3>Grade Submission Application made using Spring Boot, Spring Security, H2, REST</h3>
 
 <hr>
 
